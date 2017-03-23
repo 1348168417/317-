@@ -1,0 +1,10 @@
+*{
+	margin:0px;
+	padding: 0px;
+	margin:0 auto;
+}
+.top {
+	width: 1000px;
+	height: 100px;
+	background-color: #fff;
+}
